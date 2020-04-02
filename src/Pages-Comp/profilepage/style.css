@@ -1,0 +1,68 @@
+.upperContainer{
+
+    background: #ebebeb;
+
+}
+
+.userImage{
+
+    width: 100px;
+    height: 100px;
+}
+
+.profileName{
+
+    display: flex;
+    justify-content: center;
+    font-weight: lighter;
+    box-shadow: lightcyan;
+}
+
+.profileType{
+    display: flex;
+    justify-content: center;
+    font-weight: lighter;
+}
+
+.LowerContainer{
+
+    background: #f2ffed;
+    margin-top: 20px;
+}
+
+.details-div{
+    display: flex;
+    justify-content: center;
+}
+
+.ProfileLabel{
+
+    font-weight: lighter;
+    color: blue;
+
+
+}
+
+.gridTitle{
+    font-family: "Adobe Ming Std L";
+    font-weight: lighter;
+    margin-top: 10px;
+    margin-left: 180px;
+    width: 500px;
+    color: white;
+
+}
+
+.mainContainer{
+    background-image: linear-gradient(to right top, #131112, #322a31, #4f4656, #676680, #7989ad, #7794c5, #71a0dd, #65adf6, #599fff, #5e8eff, #7379ff, #8e5ffb);
+}
+
+.gridTile:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.gridTile{
+    padding: 0;
+    margin: 0 0 0 0;
+}

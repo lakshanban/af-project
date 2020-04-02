@@ -1,0 +1,25 @@
+
+.containerLogin{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 40%;
+    margin-right: 40%;
+    align-content: flex-start;
+    background: aliceblue;
+    border: solid black;
+    border-radius:5% ;
+    margin-top: 70px;
+    padding: 30px;
+
+
+
+}
+
+.themeprovider{
+
+    color: black;
+    background: lightcyan;
+    height: 1000px;
+}
