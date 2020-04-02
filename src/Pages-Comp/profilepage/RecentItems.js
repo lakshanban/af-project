@@ -11,7 +11,7 @@ export function RecentItems(props) {
 
     return  <div >
 
-        <h4 className='gridTitle'> recently viewed Items</h4>
+        <h4 className='gridTitle' id={1}> recently viewed Items</h4>
 
         <Container style={{background:'',marginTop:20}}>
 
