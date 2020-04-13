@@ -8,26 +8,17 @@ import {FormControl} from "react-bootstrap";
 const Styles =  Styled.div`
 
 .navbar{
-
    background-color: #FFF;
-  
 }
-
 .navbar-brand{
-
 color: #00ACEE;
-
 &:hover{
 color:#00ACEE;}
-
 }
 .navbar-nav {
-
 color: ##00ACEE;
-
 &:hover{
 color:#00ACEE;}
-
 }
 `;
 

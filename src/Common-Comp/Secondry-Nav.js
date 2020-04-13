@@ -14,9 +14,6 @@ export class SecondryNav extends Component{
     render() {
         return (
             <React.Fragment>
-
-
-
                 <Nav fill variant="tabs" defaultActiveKey="/home">
                     <Nav.Item className="sec_nav_item">
                         <Nav.Link href="/shippingfree">Shipping free</Nav.Link>

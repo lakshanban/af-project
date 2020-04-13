@@ -4,7 +4,8 @@ import AppBar  from 'material-ui/AppBar'
 import TextField  from 'material-ui/TextField'
 import RaisedButton from 'material-ui/RaisedButton';
 import './signup.css'
-import DownloadIcon from './icon/downlodicon.png'
+// import DownloadIcon from './icon/downlodicon.png'
+import DownloadIcon from '../icon/logo.png'
 
 import {BottomNavigation,BottomNavigationItem} from "material-ui/BottomNavigation";
 
